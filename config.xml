@@ -54,6 +54,8 @@
 <plugin name="cordova-plugin-video-editor" spec="https://github.com/jbavari/cordova-plugin-video-editor.git"/>
 <plugin name="cordova-plugin-screen-orientation"/>
 <plugin name="cordova-plugin-app-launcher"/>
+<plugin name="cordova-plugin-local-notification"/>
+<plugin name="cordova-plugin-dnd" spec="https://github.com/martinchuka/cordova-plugin-dnd.git"/>
 <!--<plugin name="cordova-plugin-background-mode"/>-->
 <plugin name="cordova-plugin-android-permissions"/>
  <!--Required for Push Notification tutorial dari youtube -->
@@ -89,7 +91,7 @@
 <preference name="android-minSdkVersion" value="19"/>
 <preference name="android-targetSdkVersion" value="28"/>
 <preference name="android-installLocation" value="auto"/>
-<preference name="Fullscreen" value="false"/>
+<preference name="Fullscreen" value="true"/>
 <preference name="Orientation" value="portrait"/>
 <preference name="android-signed" value="true"/>
 <preference name="AndroidLaunchMode" value="singleTop"/>
