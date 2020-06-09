@@ -77,7 +77,7 @@
     <!-- below requires the status bar plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-statusbar -->
     <!-- see http://devgirl.org/2014/07/31/phonegap-developers-guid -->
-    <preference name="StatusBarOverlaysWebView" value="false"/>
+    <preference name="StatusBarOverlaysWebView" value="true"/>
     <preference name="StatusBarBackgroundColor" value="transparent"/>
     <preference name="StatusBarStyle" value="lightcontent"/>
 </platform>
