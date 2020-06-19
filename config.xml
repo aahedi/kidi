@@ -59,6 +59,9 @@
 <plugin name="cordova-plugin-purchase"/>
 <plugin name="cordova-plugin-network-information"/>
 <!--<plugin name="cordova-plugin-screenrecord"/>-->
+<plugin name="cordova-plugin-gif" spec="https://github.com/aahedi/cordova-plugin-gif.git"/>
+<plugin name="cordova-plugin-audio-join" spec="https://github.com/aahedi/cordova-plugin-audio-join.git"/>
+<plugin name="cordova-plugin-nocsonicmedia" spec="https://github.com/aahedi/cordova-plugin-nocsonicmedia.git"/>
 <plugin name="cordova-plugin-watermark-video"/>
 <plugin name="com.virtuoworks.cordova-plugin-canvascamera"/>
 <plugin name="cordova-plugin-media-custom"/>
