@@ -56,9 +56,15 @@
 <plugin name="cordova-plugin-media-capture" spec="3.0.2"/>
 <plugin name="cordova-clipboard"/>
 <plugin name="cordova-plugin-audio-mode"/>
+<plugin name="cordova-plugin-purchase"/>
+<plugin name="cordova-plugin-network-information"/>
 <!--<plugin name="cordova-plugin-screenrecord"/>-->
+<plugin name="cordova-plugin-watermark-video"/>
+<plugin name="com.virtuoworks.cordova-plugin-canvascamera"/>
+<plugin name="cordova-plugin-media-custom"/>
 <plugin name="cordova-plugin-screenrecord" spec="https://github.com/aahedi/cordova-plugin-screenrecord.git"/>
 <plugin name="cordova-plugin-video-editor" spec="https://github.com/jbavari/cordova-plugin-video-editor.git"/>
+<plugin name="cordova-plugin-chrome-apps-videoCapture" spec="https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-videoCapture.git"/>
 <plugin name="cordova-plugin-screen-orientation"/>
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-local-notification"/>
