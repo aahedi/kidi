@@ -122,4 +122,11 @@
 <config-file platform="android" parent="/manifest/application" mode="merge"> 
     <activity android:launchMode="singleTop" />
 </config-file>
+<edit-config file="AndroidManifest.xml" target="/manifest/uses-sdk" mode="merge">
+<intent-filter>
+    <action android:name="android.intent.action.SEND" />
+    <category android:name="android.intent.category.DEFAULT" />
+    <data android:mimeType="*/*" />
+</intent-filter>
+</edit-config>
 </widget>
