@@ -24,7 +24,6 @@
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
 <plugin name="cordova-plugin-intent"/>
-<plugin name="cordova-plugin-tts"/>
 <plugin name="cordova-plugin-contacts"/>
 <plugin name="cordova-plugin-statusbar"/>
 <plugin name="cordova-plugin-navigationbar"/>
@@ -53,6 +52,9 @@
     <variable name="PLAY_SERVICES_VERSION" value="11.0.4" />
 </plugin>
 <plugin name="SpeechSynthesisPlugin" spec="https://github.com/macdonst/SpeechSynthesisPlugin.git"/>
+<plugin name="cordova-plugin-tts"/>
+<plugin name="cordova-plugin-tts-notification" spec="https://github.com/kn4rfy/cordova-plugin-tts-notification.git"/>
+<plugin name="cordova-sharingreceptor" spec="https://github.com/stample/cordova-sharingreceptor.git"/>
 <plugin name="com.virtuoworks.cordova-plugin-canvascamera" spec="https://github.com/VirtuoWorks/CanvasCameraPlugin.git"/>
 <plugin name="cordova-plugin-fullscreen" spec="https://github.com/mesmotronic/cordova-plugin-fullscreen.git"/>
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
