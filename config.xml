@@ -23,6 +23,9 @@
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
+<plugin name="com-darryncampbell-cordova-plugin-intent"/>
+<plugin name="cordova-plugin-tts"/>
+<plugin name="cordova-plugin-contacts"/>
 <plugin name="cordova-plugin-statusbar"/>
 <plugin name="cordova-plugin-navigationbar"/>
 <plugin name="cordova-plugin-shake"/>
@@ -99,7 +102,8 @@
     <preference name="StatusBarBackgroundColor" value="transparent"/>
     <preference name="StatusBarStyle" value="lightcontent"/>
 </platform>
-<platform  name="android">
+<platform name="android">
+<preference name="AndroidLaunchMode" value="singleTask"/>
 <preference name="SplashMaintainAspectRatio" value="false"/>
 </platform>
 <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist "/>
