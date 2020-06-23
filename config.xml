@@ -78,7 +78,7 @@
 <plugin name="cordova-plugin-screen-orientation"/>
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-compat"/>
-<<plugin name="cordova-plugin-local-notification"/>
+<plugin name="cordova-plugin-local-notification"/>
 <plugin name="cordova-plugin-dnd" spec="https://github.com/martinchuka/cordova-plugin-dnd.git"/>
 <plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>
 <!--<plugin name="cordova-plugin-background-mode"/>-->
