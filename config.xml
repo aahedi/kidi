@@ -55,8 +55,8 @@
 </plugin>
 <plugin name="SpeechSynthesisPlugin" spec="https://github.com/macdonst/SpeechSynthesisPlugin.git"/>
 <!--<plugin name="cordova-plugin-tts"/>
-<plugin name="cordova-plugin-tts-notification" spec="https://github.com/kn4rfy/cordova-plugin-tts-notification.git"/>
-<plugin name="cordova-plugin-notification-listener" spec="https://github.com/SmallTsai/cordova-plugin-notification-listener.git"/>-->
+<plugin name="cordova-plugin-tts-notification" spec="https://github.com/kn4rfy/cordova-plugin-tts-notification.git"/>-->
+<plugin name="cordova-plugin-notification-listener" spec="https://github.com/SmallTsai/cordova-plugin-notification-listener.git"/>
 <plugin name="cordova-sharingreceptor" spec="https://github.com/stample/cordova-sharingreceptor.git"/>
 <plugin name="com.virtuoworks.cordova-plugin-canvascamera" spec="https://github.com/VirtuoWorks/CanvasCameraPlugin.git"/>
 <plugin name="cordova-plugin-fullscreen" spec="https://github.com/mesmotronic/cordova-plugin-fullscreen.git"/>
@@ -78,8 +78,8 @@
 <plugin name="cordova-plugin-screen-orientation"/>
 <plugin name="cordova-plugin-app-launcher"/>
 <plugin name="cordova-plugin-dnd" spec="https://github.com/martinchuka/cordova-plugin-dnd.git"/>
-<!--<plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>-->
-<!--<plugin name="cordova-plugin-background-mode"/>-->
+<plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>
+<plugin name="cordova-plugin-background-mode"/>
 <plugin name="cordova-plugin-android-permissions"/>
  <!--Required for Push Notification tutorial dari youtube -->
 <!--<plugin name="cordova-plugin-firebasex" spec="https://github.com/dpa99c/cordova-plugin-firebasex"/>
