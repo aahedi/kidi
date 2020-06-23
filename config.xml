@@ -77,10 +77,8 @@
 <plugin name="cordova-plugin-video-editor" spec="https://github.com/jbavari/cordova-plugin-video-editor.git"/>
 <plugin name="cordova-plugin-screen-orientation"/>
 <plugin name="cordova-plugin-app-launcher"/>
-<plugin name="cordova-plugin-compat"/>
-<plugin name="cordova-plugin-local-notification"/>
 <plugin name="cordova-plugin-dnd" spec="https://github.com/martinchuka/cordova-plugin-dnd.git"/>
-<plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>
+<!--<plugin name="cordova-plugin-ocr-time-from-camera" spec="https://github.com/thecodealer/cordova-plugin-ocr-time-from-camera.git"/>-->
 <!--<plugin name="cordova-plugin-background-mode"/>-->
 <plugin name="cordova-plugin-android-permissions"/>
  <!--Required for Push Notification tutorial dari youtube -->
@@ -93,6 +91,7 @@
 <plugin name="onesignal-cordova-plugin"/>
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
+<plugin name="cordova-plugin-local-notification"/>
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
