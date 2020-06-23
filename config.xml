@@ -23,7 +23,6 @@
 <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
-<plugin name="cordova-plugin-intent"/>
 <plugin name="cordova-plugin-contacts"/>
 <plugin name="cordova-plugin-statusbar"/>
 <plugin name="cordova-plugin-navigationbar"/>
