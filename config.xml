@@ -55,8 +55,8 @@
 </plugin>
 <plugin name="SpeechSynthesisPlugin" spec="https://github.com/macdonst/SpeechSynthesisPlugin.git"/>
 <!--<plugin name="cordova-plugin-tts"/>
-<plugin name="cordova-plugin-tts-notification" spec="https://github.com/kn4rfy/cordova-plugin-tts-notification.git"/>-->
-<plugin name="cordova-plugin-notification-listener" spec="https://github.com/SmallTsai/cordova-plugin-notification-listener.git"/>
+<plugin name="cordova-plugin-tts-notification" spec="https://github.com/kn4rfy/cordova-plugin-tts-notification.git"/>
+<plugin name="cordova-plugin-notification-listener" spec="https://github.com/SmallTsai/cordova-plugin-notification-listener.git"/>-->
 <plugin name="cordova-sharingreceptor" spec="https://github.com/stample/cordova-sharingreceptor.git"/>
 <plugin name="com.virtuoworks.cordova-plugin-canvascamera" spec="https://github.com/VirtuoWorks/CanvasCameraPlugin.git"/>
 <plugin name="cordova-plugin-fullscreen" spec="https://github.com/mesmotronic/cordova-plugin-fullscreen.git"/>
