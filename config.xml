@@ -72,7 +72,6 @@
 <plugin name="cordova-plugin-audio-join" spec="https://github.com/aahedi/cordova-plugin-audio-join.git"/>
 <plugin name="cordova-plugin-nocsonicmedia" spec="https://github.com/aahedi/cordova-plugin-nocsonicmedia.git"/>-->
 <plugin name="cordova-plugin-watermark-video"/>
-<plugin name="com.virtuoworks.cordova-plugin-canvascamera"/>
 <plugin name="cordova-plugin-media-custom"/>
 <plugin name="cordova-plugin-screenrecord" spec="https://github.com/aahedi/cordova-plugin-screenrecord.git"/>
 <plugin name="cordova-plugin-video-editor" spec="https://github.com/jbavari/cordova-plugin-video-editor.git"/>
