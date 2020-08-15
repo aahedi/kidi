@@ -46,8 +46,8 @@
 <plugin name="cordova-plugin-mediascanner"/>
 <plugin name="cordova-plugin-gallery-refresh"/>
 <plugin name="cordova-plugin-android-volume"/>
-<plugin name="cordova-plugin-qrscanner"/>
-<!--<plugin name="cordova-plugin-admob-free"> 
+<!--<plugin name="cordova-plugin-qrscanner"/>
+<plugin name="cordova-plugin-admob-free"> 
 <variable name="ADMOB_APP_ID" value="ca-app-pub-5534349488129893~5975183237" /> 
 </plugin>
 <plugin name="cordova-plugin-admob-mediation-facebook"/>
