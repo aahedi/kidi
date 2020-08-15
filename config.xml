@@ -51,7 +51,7 @@
 <variable name="ADMOB_APP_ID" value="ca-app-pub-5534349488129893~5975183237" /> 
 </plugin>
 <plugin name="cordova-plugin-admob-mediation-facebook"/>
-<!--<plugin name="cordova-admob-mediation" spec="https://github.com/ratson/cordova-admob-mediation.git"/>-->
+<plugin name="cordova-admob-mediation" spec="https://github.com/ratson/cordova-admob-mediation.git"/>-->
 <plugin name="cordova-admob-sdk" spec="../plugins/cordova-admob-sdk">
     <variable name="PLAY_SERVICES_VERSION" value="11.0.4" />
 </plugin>
