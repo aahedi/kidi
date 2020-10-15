@@ -90,7 +90,7 @@
 <plugin name="cordova-plugin-androidx"/>
 <plugin name="cordova-plugin-androidx-adapter"/>-->
 <plugin name="cordova-plugin-customurlscheme" source="npm">
-  <param name="URL_SCHEME" value="doami" />
+  <param name="URL_SCHEME" value="kidisoft" />
 </plugin>
 <plugin name="onesignal-cordova-plugin"/>
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
