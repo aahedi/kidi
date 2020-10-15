@@ -1,13 +1,17 @@
+html,body{
+	background-color:#000;
+}
 .splash-screen{
 background-image: 
-    url('icon512.png');/*dari koma diganti titik koma*/
+    url('slide/splash.png');/*dari koma diganti titik koma*/
 	/*url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"><text  x="50%" y="60%" dominant-baseline="middle" font-size="26" font-family="Arial" fill="black"><tspan x="50%" text-anchor="middle">Igm Downloader </tspan><tspan x="50%" text-anchor="middle" dy="1.2em" fill="black"> </tspan></text></svg>');*/
 background-position:
     center center, 
     bottom center;
 background-repeat:no-repeat;
 /*background-size:auto 50%;*/
-background-size:72px;
+background-size:100%;
+background-color: #000;
 }
 /*desktops - higher resolution*/
 @media (min-width: 1281px){.splash-screen{min-height:640px}}
@@ -16,7 +20,7 @@ background-size:72px;
 @media (min-width: 1025px) and (max-width: 1280px) {.splash-screen{min-height:630px}}
 
 /*tablets, ipads (portrait)*/
-@media (min-width: 768px) and (max-width: 1024px){.splash-screen{min-height:600px}}
+@media (min-width: 768px) and (max-width: 1024px){.splash-screen{min-height:760px}}
 
 /*tablets, ipads (landscape)*/
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape){.splash-screen{min-height:360px}}
@@ -25,7 +29,7 @@ background-size:72px;
 @media (min-width: 481px) and (max-width: 767px){.splash-screen{min-height:300px}}
 
 /*smartphones mobiles (portrait)*/
-@media (min-width: 320px) and (max-width: 480px){.splash-screen{min-height:600px}}
+@media (min-width: 320px) and (max-width: 480px){.splash-screen{min-height:760px}}
 
 ::-webkit-scrollbar {
   width: 5px;
